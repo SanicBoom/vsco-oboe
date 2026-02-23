@@ -91,5 +91,379 @@
     "vib_oboe_vib_f4_v3_main": "vib/Oboe_Vib_F4_v3_Main.wav",
     "vib_oboe_vib_f5_v1_main": "vib/Oboe_Vib_F5_v1_Main.wav",
     "vib_oboe_vib_f5_v3_main": "vib/Oboe_Vib_F5_v3_Main.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A#2",
+      "sample": "stacc_oboe_stacc_as2_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#2",
+      "sample": "sus_oboe_sus_as2_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#2",
+      "sample": "vib_oboe_vib_as2_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#2",
+      "sample": "stacc_oboe_stacc_as2_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#2",
+      "sample": "stacc_oboe_stacc_as2_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "sus_oboe_sus_as2_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "vib_oboe_vib_as2_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "stacc_oboe_stacc_d3_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D3",
+      "sample": "sus_oboe_sus_d3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D3",
+      "sample": "vib_oboe_vib_d3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D3",
+      "sample": "stacc_oboe_stacc_d3_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D3",
+      "sample": "stacc_oboe_stacc_d3_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "sus_oboe_sus_d3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "vib_oboe_vib_d3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "stacc_oboe_stacc_f3_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "sus_oboe_sus_f3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "vib_oboe_vib_f3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "stacc_oboe_stacc_f3_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "stacc_oboe_stacc_f3_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "sus_oboe_sus_f3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "vib_oboe_vib_f3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "stacc_oboe_stacc_as3_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "sus_oboe_sus_as3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "vib_oboe_vib_as3_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "stacc_oboe_stacc_as3_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#3",
+      "sample": "stacc_oboe_stacc_as3_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "sus_oboe_sus_as3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "vib_oboe_vib_as3_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "stacc_oboe_stacc_d4_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "sus_oboe_sus_d4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "vib_oboe_vib_d4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "stacc_oboe_stacc_d4_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D4",
+      "sample": "stacc_oboe_stacc_d4_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "sus_oboe_sus_d4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "vib_oboe_vib_d4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "stacc_oboe_stacc_f4_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "sus_oboe_sus_f4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "vib_oboe_vib_f4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "stacc_oboe_stacc_f4_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "stacc_oboe_stacc_f4_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "sus_oboe_sus_f4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "vib_oboe_vib_f4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "stacc_oboe_stacc_as4_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "sus_oboe_sus_as4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "vib_oboe_vib_as4_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "stacc_oboe_stacc_as4_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#4",
+      "sample": "stacc_oboe_stacc_as4_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "sus_oboe_sus_as4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "vib_oboe_vib_as4_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "stacc_oboe_stacc_d5_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "sus_oboe_sus_d5_v1_main",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "vib_oboe_vib_d5_v1_main",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "stacc_oboe_stacc_d5_v3_rr1_main",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "sus_oboe_sus_d5_v3_main",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "vib_oboe_vib_d5_v3_main",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "stacc_oboe_stacc_f5_v1_rr1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "sus_oboe_sus_f5_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "vib_oboe_vib_f5_v1_main",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "stacc_oboe_stacc_f5_v2_rr1_main",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "stacc_oboe_stacc_f5_v3_rr1_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "sus_oboe_sus_f5_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "vib_oboe_vib_f5_v3_main",
+      "loVel": 85,
+      "hiVel": 127
+    }
+  ]
 }
